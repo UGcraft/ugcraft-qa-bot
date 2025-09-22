@@ -72,7 +72,7 @@ pip install -r requirements.txt --prefer-binary
 pip install -e ".[torch,metrics]"
 ```
 
-### 5.Llma-Factory, 启动！
+### 5.Llama-Factory, 启动！
 ```
 llamafactory-cli webui --server_name localhost --server_port 7860 --share false
 ```
